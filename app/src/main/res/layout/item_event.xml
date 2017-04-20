@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="4dp"
+        app:cardElevation="3dp"
+        app:cardBackgroundColor="@color/white">
+        <LinearLayout
+            android:layout_margin="3dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/image"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:src="@mipmap/concrete_seamless"/>
+            <TextView
+                android:id="@+id/name"
+                android:layout_marginLeft="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="25dp"
+                android:textColor="@color/textColor"
+                android:text="Khan Academy"/>
+        </LinearLayout>
+        <View
+            android:layout_marginTop="80dp"
+            android:layout_width="match_parent"
+            android:background="@color/appBarMargin"
+            android:layout_height="2dp"/>
+        <TextView
+            android:id="@+id/type"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="90dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:textColor="@color/textColor"
+            android:text="15th Jan 2017|Weekly|Every Sunday|3 PM|2 Hours"/>
+    </android.support.v7.widget.CardView>
+</LinearLayout>

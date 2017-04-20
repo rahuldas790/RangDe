@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "642433926239",
+    "firebase_url": "https://rangde-2b561.firebaseio.com",
+    "project_id": "rangde-2b561",
+    "storage_bucket": "rangde-2b561.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642433926239:android:85d7f3fd0c79f1d5",
+        "android_client_info": {
+          "package_name": "rahulkumardas.rangde"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642433926239-agq68l14nph6dl4llf0qa3jjv5ukpmn0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rahulkumardas.rangde",
+            "certificate_hash": "E1F91A7A6C3C0D3761AA2E45A38D71981DE6E9EE"
+          }
+        },
+        {
+          "client_id": "642433926239-jhk82c03mdrcbe64jat1oqcj1k36pqqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyD0oKONTYDbnjyuYUVIbPLQELVe2YYDM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642433926239-jhk82c03mdrcbe64jat1oqcj1k36pqqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

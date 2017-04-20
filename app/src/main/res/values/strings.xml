@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RangDe</string>
+    <string name="not_a_member">Not a member? <b><u>SignUp</u></b> now.</string>
+    <string name="already_a_member">Already a member? <b><u>Login</u></b>.</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="create_account">Create Account</string>
+    <string name="type"><b>Type #</b></string>
+    <string name="title_activity_maps">Map</string>
+    <string name="auth_failed">Authentication Failed</string>
+    <string name="dashboard">DashBoard</string>
+    <string name="profile">Profile</string>
+    <string name="address"><b><u>Address</u></b></string>
+    <string name="zipcode"><b><u>ZipCode</u></b></string>
+    <string name="student"><b><u>Student</u></b></string>
+    <string name="subjects"><b><u>Subject(s) Opted</u></b></string>
+    <string name="bio"><b><u>Bio</u></b></string>
+    <string name="tutoring"><b><u>Student Tutoring :</u></b></string>
+    <string name="event">Event</string>
+
+</resources>
